@@ -1,5 +1,5 @@
 [Unit]
-Description=Apache Tomcat 9 Web Application Server
+Description=Apache Tomcat Web Application Server
 After=network.target
 RequiresMountsFor=/var/log/__APP__/tomcat __INSTALL_DIR__/var/lib/__TOMCAT_VERSION__
 
